@@ -11,8 +11,8 @@
         "obras/01/foto03.jpg",
         "obras/01/foto04.png"
       ],
-      "audio": "audio/01.mp3",
-      "video_libras": "video/01.mp4"
+      "audio": "obras/01/audio.mp3",
+      "video_libras": "obras/01/video.mp4"
     }
   ]
 }
