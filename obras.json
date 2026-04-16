@@ -1,0 +1,17 @@
+{
+  "obras": [
+    {
+      "id": "01",
+      "titulo": "Obra Premium",
+      "descricao": "Experiência avançada",
+      "imagem_principal": "obras/01/capa.jpg",
+      "imagens": [
+        "obras/01/foto01.jpg",
+        "obras/01/foto02.jpg",
+        "obras/01/foto03.jpg"
+      ],
+      "audio": "audio/01.mp3",
+      "video_libras": "video/01.mp4"
+    }
+  ]
+}
