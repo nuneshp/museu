@@ -8,7 +8,8 @@
       "imagens": [
         "obras/01/foto01.jpg",
         "obras/01/foto02.jpg",
-        "obras/01/foto03.jpg"
+        "obras/01/foto03.jpg",
+        "obras/01/foto04.png",
       ],
       "audio": "audio/01.mp3",
       "video_libras": "video/01.mp4"
