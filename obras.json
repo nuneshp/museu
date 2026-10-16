@@ -2,45 +2,42 @@
   "obras": [
     {
       "id": "01",
-      "titulo": "Título da obra",
-      "resumo": "Breve apresentação da obra para os visitantes.",
-      "descricao": "Texto de contextualização histórica, cultural e institucional.",
+      "titulo": "Obra Premium",
+      "descricao": "Experiência avançada",
       "imagem_principal": "obras/01/capa.jpg",
-      "legenda_principal": "Imagem principal da obra.",
       "imagens": [
         "obras/01/foto01.jpg",
-        "obras/01/foto02.jpg"
+        "obras/01/foto02.jpg",
+        "obras/01/foto03.jpg"
       ],
-      "legendas_imagens": [
-        "Vista geral da obra.",
-        "Detalhe complementar da obra."
-      ],
-      "audio": "obras/01/audio.mp3",
-      "transcricao_audio": "Transcrição integral da narração.",
-      "video_libras": "obras/01/video.mp4",
-      "autor": "Autor ou responsável, se conhecido",
-      "data": "Ano ou data aproximada",
-      "periodo_historico": "Período histórico, se aplicável",
-      "categoria": "Categoria do acervo",
-      "material": "Material, se aplicável",
-      "dimensoes": "Dimensões, se aplicável",
-      "origem": "Procedência ou contexto de aquisição",
-      "localizacao": "Campus, prédio ou sala",
-      "url_publica": "",
-      "referencias": [
-        "Fonte documental ou referência bibliográfica."
-      ],
-      "obras_relacionadas": ["02"]
+      "audio": "audio/01.mp3",
+      "video_libras": "video/01.mp4"
     },
-    {
+     {
       "id": "02",
-      "titulo": "Outra obra do acervo",
-      "descricao": "Descrição desta outra obra.",
-      "imagem_principal": "obras/02/capa.jpg",
-      "imagens": [],
-      "audio": "",
-      "video_libras": "",
-      "categoria": "Categoria do acervo"
+      "titulo": "Obra Premium",
+      "descricao": "Experiência avançada",
+      "imagem_principal": "obras/01/capa.jpg",
+      "imagens": [
+        "obras/01/foto01.jpg",
+        "obras/01/foto02.jpg",
+        "obras/01/foto03.jpg"
+      ],
+      "audio": "audio/01.mp3",
+      "video_libras": "video/01.mp4"
+    },
+     {
+      "id": "03",
+      "titulo": "Obra Premium",
+      "descricao": "Experiência avançada",
+      "imagem_principal": "obras/01/capa.jpg",
+      "imagens": [
+        "obras/01/foto01.jpg",
+        "obras/01/foto02.jpg",
+        "obras/01/foto03.jpg"
+      ],
+      "audio": "audio/01.mp3",
+      "video_libras": "video/01.mp4"
     }
   ]
 }
