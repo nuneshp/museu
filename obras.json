@@ -2,8 +2,8 @@
   "obras": [
     {
       "id": "01",
-      "titulo": "Obra Premium",
-      "descricao": "Experiência avançada",
+      "titulo": "Museu IFRN Campus Lajes: Memória e Identidade",
+      "descricao": "Uma jornada pela história, pela educação e pelas memórias que fazem parte da trajetória do Instituto Federal do Rio Grande do Norte. Conheça o espaço, sua arquitetura e a importância da preservação do patrimônio institucional.",
       "imagem_principal": "obras/01/capa.jpg",
       "imagens": [
         "obras/01/foto01.jpg",
@@ -13,31 +13,31 @@
       "audio": "audio/01.mp3",
       "video_libras": "video/01.mp4"
     },
-     {
+    {
       "id": "02",
-      "titulo": "Obra Premium",
-      "descricao": "Experiência avançada",
-      "imagem_principal": "obras/01/capa.jpg",
+      "titulo": "Diversidade e Respeito: A Educação Contra o Preconceito",
+      "descricao": "Esta obra reúne cartazes de conscientização que defendem o respeito à diversidade e combatem a discriminação contra pessoas LGBTQIA+. A mensagem central reforça que a orientação sexual e a identidade de gênero não são doenças e não precisam de cura. A iniciativa convida à reflexão sobre os direitos humanos, a liberdade de ser e a importância de construir ambientes educacionais seguros, acolhedores e inclusivos para todas as pessoas.",
+      "imagem_principal": "obras/02/capa.jpg",
       "imagens": [
-        "obras/01/foto01.jpg",
-        "obras/01/foto02.jpg",
-        "obras/01/foto03.jpg"
+        "obras/02/foto01.jpg",
+        "obras/02/foto02.jpg",
+        "obras/02/foto03.jpg"
       ],
-      "audio": "audio/01.mp3",
-      "video_libras": "video/01.mp4"
+      "audio": "audio/02.mp3",
+      "video_libras": "video/02.mp4"
     },
-     {
+    {
       "id": "03",
-      "titulo": "Obra Premium",
-      "descricao": "Experiência avançada",
-      "imagem_principal": "obras/01/capa.jpg",
+      "titulo": "Educação Pública: Um Caminho para Transformar Vidas",
+      "descricao": "A educação pública é um instrumento de transformação social, capaz de ampliar oportunidades, estimular o pensamento crítico e fortalecer a cidadania. Esta obra representa o papel das instituições de ensino na formação de profissionais e cidadãos comprometidos com o desenvolvimento da sociedade. No contexto do IFRN Campus Lajes, ela convida o visitante a refletir sobre o conhecimento como patrimônio coletivo e sobre a importância de garantir uma educação gratuita, inclusiva e de qualidade para as próximas gerações.",
+      "imagem_principal": "obras/03/capa.jpg",
       "imagens": [
-        "obras/01/foto01.jpg",
-        "obras/01/foto02.jpg",
-        "obras/01/foto03.jpg"
+        "obras/03/foto01.jpg",
+        "obras/03/foto02.jpg",
+        "obras/03/foto03.jpg"
       ],
-      "audio": "audio/01.mp3",
-      "video_libras": "video/01.mp4"
+      "audio": "audio/03.mp3",
+      "video_libras": "video/03.mp4"
     }
   ]
 }
