@@ -10,8 +10,8 @@
         "obras/01/foto02.jpg",
         "obras/01/foto03.jpg"
       ],
-      "audio": "obras/01/audio.mp3",
-      "video_libras": "obras/01/video.mp4"
+      "audio": "audio.mp3",
+      "video_libras": "video.mp4"
     },
     {
       "id": "02",
